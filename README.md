@@ -9,7 +9,7 @@ This is my personal portfolio website showcasing my projects, skills, and contac
 - Contact form (or contact links)
 
 ## Live Demo
-[View Website](C:\Users\veluv\OneDrive\Desktop\Portfolio\index.html)
+[👉 View it on GitHub Pages](https://velmurugan0708.github.io/Portfolio-Website/)
 
 ## Technologies Used
 - HTML
